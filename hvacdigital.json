@@ -1,6 +1,6 @@
 {
-  "versionCode": 26012723,
-  "versionName": "1.3.0-temp-batt-independent",
+  "versionCode": 26012724,
+  "versionName": "1.3.1-batt-clickable-corner",
   "apkUrl": "https://raw.githubusercontent.com/swimapps/Outros/main/GeelyAutoSystemUIPlugin-digital.apk",
-  "sha256": "e5ed648507520f0993a3302f7b12c7409c26df569b4551bddfde012b6b1f2f6f"
+  "sha256": "0261dd785fe136212a3fbd697a8e68283779f803022fe84c6b99cac10955bf01"
 }
