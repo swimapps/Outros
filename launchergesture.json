@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0-gestures-recentapps",
+  "versionCode": 4,
+  "versionName": "1.3.0-gestures-favorites",
   "apkUrl": "https://raw.githubusercontent.com/swimapps/Outros/main/GeelyAutoLauncher-gesture-signed.apk",
-  "sha256": "0f140fb3ceee0507c528f61f4c6175c2959637575c7c233b69009b5ddb46b198"
+  "sha256": "9f3ed6f86a5d00ae093256e5701e0d696b56ce227a68491b2477f107e0825a36"
 }
