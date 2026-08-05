@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4.0-whisper-vehicle",
+  "versionCode": 5,
+  "versionName": "0.5.0-vad",
   "apkUrl": "https://raw.githubusercontent.com/swimapps/Outros/main/voice-rhino-assistant_signed.apk",
-  "sha256": "84165b509f1b1965859479321d3dfe6c25d64fd992c52cc80539eadd7a794727"
+  "sha256": "550983088cfde0335b6c23de06b939c48d902124f2262a40f5097280098b386a"
 }
