@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5.0-vad",
+  "versionCode": 6,
+  "versionName": "0.6.0-vad-log",
   "apkUrl": "https://raw.githubusercontent.com/swimapps/Outros/main/voice-rhino-assistant_signed.apk",
-  "sha256": "550983088cfde0335b6c23de06b939c48d902124f2262a40f5097280098b386a"
+  "sha256": "de47b80c945415a69ce9eab7613cb4cc5955e95a338a36725e70d7091951a30f"
 }
