@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7.0-ui",
+  "versionCode": 8,
+  "versionName": "0.8.0-vosk-grammar",
   "apkUrl": "https://raw.githubusercontent.com/swimapps/Outros/main/voice-rhino-assistant_signed.apk",
-  "sha256": "f1e642b44e641e5bb5a7ef888355a9468d8a2fb179fc603ef3f5456647134c81"
+  "sha256": "bac88a61aa417c26626473e32ab50e1181edaee48a130696867c97e5e71d1e09"
 }
