@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0-fan-retry-beep-fix",
+  "versionCode": 6,
+  "versionName": "1.4.1-bare-fan-number",
   "apkUrl": "https://raw.githubusercontent.com/swimapps/Outros/main/ei-sapo_signed.apk",
-  "sha256": "0bcbef61862dbbea0edd8c71385ae85d19434936d04f7bf0c8f499a2b19dbd74"
+  "sha256": "1901e1a5253a97fa294d4eabedb5d1182115766fffd958b75bc857d17a13207b"
 }
