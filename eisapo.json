@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0-volume-camera-beep",
+  "versionCode": 5,
+  "versionName": "1.4.0-fan-retry-beep-fix",
   "apkUrl": "https://raw.githubusercontent.com/swimapps/Outros/main/ei-sapo_signed.apk",
-  "sha256": "56395bc2ff82328f09ec9a3397854b24307e7db24f597d00ef6fe32b94b5fcb1"
+  "sha256": "0bcbef61862dbbea0edd8c71385ae85d19434936d04f7bf0c8f499a2b19dbd74"
 }
