@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.8.0-vosk-grammar",
+  "versionCode": 9,
+  "versionName": "0.9.0-floater-wakeword",
   "apkUrl": "https://raw.githubusercontent.com/swimapps/Outros/main/voice-rhino-assistant_signed.apk",
-  "sha256": "bac88a61aa417c26626473e32ab50e1181edaee48a130696867c97e5e71d1e09"
+  "sha256": "18e9f1ffd3a8931852201ac904621776cc8f5e91d66d6c8eeb40205fa606ffea"
 }
