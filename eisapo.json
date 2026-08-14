@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.10.0-fix-vidro-e-fallback-vocabulario-abrir-qualquer-app",
+  "versionCode": 14,
+  "versionName": "1.11.0-fix-ar-condicionado-e-pisca-alerta",
   "apkUrl": "https://raw.githubusercontent.com/swimapps/Outros/main/ei-sapo_signed.apk",
-  "sha256": "6aaa2bdabe1ad99c62e6a5d9ecbf4f575448f692a33f5454df11d89c9a4c1815"
+  "sha256": "bcd46d6b9cb4afcec284d076cb99d217ae13b1aca531172f288e868dc5c9ccf3"
 }
