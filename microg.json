@@ -1,9 +1,9 @@
 {
-  "versionCode": 250932004,
-  "versionName": "0.3.13.2.250932",
-  "apkUrl": "https://github.com/ReVanced/GmsCore/releases/download/v0.3.13.2.250932/app.revanced.android.gms-250932004-signed.apk",
-  "sha256": "62119f040d629a9cd3225f280649a464936730c6466cafb5b9dd5ded14269a65",
-  "pageUrl": "https://github.com/ReVanced/GmsCore/releases/latest",
+  "versionCode": 255070218,
+  "versionName": "7.2.1",
+  "apkUrl": "https://github.com/MorpheApp/MicroG-RE/releases/download/7.2.1/microg-7.2.1-icon-arm64-v8a.apk",
+  "sha256": "3425e46e95cd45012892cfaa23061b70db0a25affffcfcb84e3df4511d63eb82",
+  "pageUrl": "https://github.com/MorpheApp/MicroG-RE/releases/tag/7.2.1",
   "pacote": "app.revanced.android.gms",
-  "nota": "microG do fork ReVanced — release oficial; sha256 do digest publicado pelo GitHub."
+  "nota": "MicroG RE oficial do Morphe, ARM64. Validado com Music na IHU629G: login, biblioteca, reprodução e teste curto em segundo plano. Se houver outro microG com assinatura diferente, a troca exige autorização para remover o anterior e novo login na conta."
 }
